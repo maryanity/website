@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+.env*
+website/src/data/notes.txt
+website/pictures/

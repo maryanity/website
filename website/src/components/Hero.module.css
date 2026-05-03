@@ -1,0 +1,55 @@
+.hero {
+  padding: 8rem 2rem 4rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+}
+
+.nameWrapper {
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.name {
+  font-size: clamp(3rem, 10vw, 6rem);
+  line-height: 1.1;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+}
+
+.tagline {
+  font-size: clamp(1rem, 3vw, 1.5rem);
+  max-width: 600px;
+  opacity: 0.8;
+}
+
+.organicBlob1 {
+  position: absolute;
+  top: -10%;
+  left: -5%;
+  width: 40vw;
+  height: 40vw;
+  background: var(--accent);
+  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  filter: blur(100px);
+  opacity: 0.2;
+  z-index: -1;
+}
+
+.organicBlob2 {
+  position: absolute;
+  bottom: -10%;
+  right: -5%;
+  width: 35vw;
+  height: 35vw;
+  background: #a88b8b; /* Warm clay */
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  filter: blur(100px);
+  opacity: 0.15;
+  z-index: -1;
+}
