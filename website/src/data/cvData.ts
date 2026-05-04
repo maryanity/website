@@ -5,15 +5,15 @@ export const cvData = {
   values: [
     {
       title: "Servitude",
-      description: "In a talk introducing AIMSSEC's work, Sinobia Kenny (the AIMSSEC Academic Manager) spoke about the burden of education. The responsibility that if you have knowledge or skills that are adding value in a given context, that you use or share that knowledge, to empower others or change the world for the better. I try to hold myself accountable to this and support students, staff, and community members, wherever I have the chance and capacity to do so."
+      description: "In a talk introducing AIMSSEC's work, Sinobia Kenny spoke about the burden of education. The responsibility that if you have knowledge or skills that are adding value in a given context, that you use or share that knowledge, to empower others or change the world for the better. I try to hold myself accountable to this and support students, staff, and community members, wherever I have the chance and capacity to do so."
     },
     {
       title: "Sustainability",
-      description: "Let's not go to Mars. Let's honour the beauty around us. Let's build things that last."
+      description: "Let's not go to Mars. Let's honour the beauty around us. Let's build things that last. - It is shocking, that while absolutely reasonable, this feels almost revolutionary in today's day and age."
     },
      {
       title: "Integrity",
-      description: "Integrity rocks."
+      description: "Without integrity there is really nothing to count on."
     }
   ],
   currentPositions: [
